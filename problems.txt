@@ -1,0 +1,26 @@
+1. conditionally showing the user_dashboard.jsp
+	i.e. for buyer and seller menu's accordingly....
+	we have to make another servlet for buyer.................................
+
+2. Product.java		 -> collectAllProducts()
+
+3. Category.java  	 -> collectAllCategories()
+
+4. SubCategory.java    -> collectAllSubCategories()
+
+5. profile modal		 -> user.about
+
+6. profile modal 		 -> show pic of particular user, and get it from the secure folder inside WEB-INF
+
+7. edit profile
+
+8. 
+
+
+
+
+signin modal 	edit.jsp		seller/buyer
+user_dashboard.jsp     conditionally
+pic leni hai registration ke time pr
+
+i have to give an alert system in which i will give an alert message to the seller if any product undergoes over some limit

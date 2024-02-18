@@ -1,0 +1,7 @@
+/*
+	how to get the keys from the tables which is not passed in the object....
+*/
+
+PreparedStatement ps = con.prepareStatement(query, Statement.RETURN_GENERATED_KEYS);
+
+ResultSet rs = ps.getGeneratedKeys();
