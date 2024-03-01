@@ -28,11 +28,6 @@
   </description>
 
   <context-param>
-    <param-name>secret_key</param-name>
-    <param-value>6LfMz3siAAAAAJQ8_YGiMjCCYH9eVY9ThTPtUWYv</param-value>
-  </context-param>
-
-  <context-param>
     <param-name>smtp_host</param-name>
     <param-value>smtp-mail.outlook.com</param-value>
   </context-param>
