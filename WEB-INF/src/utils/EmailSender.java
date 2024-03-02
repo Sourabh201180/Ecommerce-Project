@@ -43,6 +43,6 @@ public class EmailSender {
 
 class MailAuthenticator extends Authenticator {
     public PasswordAuthentication getPasswordAuthentication() {
-        return new PasswordAuthentication("piyushsinghofficial1@outlook.com", "hulkpiyush1");
+        return new PasswordAuthentication( , );
     }
 }
